@@ -1,0 +1,27 @@
+body {
+    /* ubah warna background */
+    font-family:"Inter";
+    background-color: lightblue;
+    color: rgb(28, 34, 146);
+    /* margin */
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+p{
+    text-decoration: solid;
+}
+
+a:link{
+    color: rgb(43, 8, 78);
+    text-decoration: none;
+}
+a:hover{
+    color: yellow;
+    text-decoration: solid;
+    font-weight: bold;
+}
+a:visited{
+    color: rgb(43, 8, 78);
+    text-decoration: none;
+}
